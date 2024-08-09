@@ -1,7 +1,8 @@
-![Banner](https://i.imgur.com/p0P4tcI.png)
+![Banner](https://i.imgur.com/VQdErni.png)
 
-GUI and CLI Launcher for [Project Reboot](https://github.com/Milxnor/Project-Reboot-3.0/)
-Join our discord at https://discord.gg/reboot
+GUI and CLI Launcher for [Project Stars Ski](https://github.com/Replay-Tag/Project-Stars-Ski)
+
+Discord coming soon
 
 ## Modules
 
