@@ -1,6 +1,6 @@
-# reboot_launcher
+# stars_ski_launcher
 
-Launcher for project reboot
+Launcher for project stars ski
 
 ## Getting Started
 
